@@ -1,0 +1,20 @@
+{
+  "name": "Node-SimpleBlogServer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bin/www.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jameszzX/Node-SimpleBlogServer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jameszzX/Node-SimpleBlogServer/issues"
+  },
+  "homepage": "https://github.com/jameszzX/Node-SimpleBlogServer#readme"
+}
