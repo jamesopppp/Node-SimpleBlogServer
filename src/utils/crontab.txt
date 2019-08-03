@@ -1,0 +1,4 @@
+crontab -e >>
+* 0 * * * sh /Users/james/James'sRepositories/Node-SimpleBlogServer/src/utils/copy.sh
+
+分钟 小时 日期 月份 星期 command
